@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/koubral.store.ico",
     "slug": "https-koubral-store",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "27.82%",
+    "uptimeDay": "27.82%",
+    "uptimeWeek": "27.82%",
+    "uptimeMonth": "27.82%",
+    "uptimeYear": "27.82%",
     "time": 1061,
     "timeDay": 1061,
     "timeWeek": 1061,
     "timeMonth": 1061,
     "timeYear": 1061,
     "dailyMinutesDown": {
-      "2022-12-20": 0
+      "2022-12-21": 148,
+      "2022-12-20": 35
     }
   }
 ]
