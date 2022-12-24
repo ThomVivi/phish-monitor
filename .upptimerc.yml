@@ -3,8 +3,8 @@ owner: ThomVivi # Your GitHub organization or username, where this repository li
 repo: phish-monitor # The name of this repository
 
 sites:
-  - name: https://ankamapotion.store/retro/
-    url: https://ankamapotion.store/retro/
+  - name: https://www.shop-ankama.store/dofus/fr/
+    url: https://www.shop-ankama.store/dofus/fr/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
