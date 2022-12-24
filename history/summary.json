@@ -1,22 +1,20 @@
 [
   {
-    "name": "https://ankamapotion.store/retro/",
-    "url": "https://ankamapotion.store/retro/",
-    "icon": "https://icons.duckduckgo.com/ip3/ankamapotion.store.ico",
-    "slug": "https-ankamapotion-store-retro",
-    "status": "down",
-    "uptime": "99.61%",
+    "name": "https://www.shop-ankama.store/dofus/fr/",
+    "url": "https://www.shop-ankama.store/dofus/fr/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.shop-ankama.store.ico",
+    "slug": "https-www-shop-ankama-store-dofus-fr",
+    "status": "up",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
-    "time": 40,
-    "timeDay": 0,
-    "timeWeek": 40,
-    "timeMonth": 40,
-    "timeYear": 40,
-    "dailyMinutesDown": {
-      "2022-12-21": 6
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 655,
+    "timeDay": 655,
+    "timeWeek": 655,
+    "timeMonth": 655,
+    "timeYear": 655,
+    "dailyMinutesDown": {}
   }
 ]
