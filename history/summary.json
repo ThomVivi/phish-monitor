@@ -5,19 +5,39 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.shop-ankama.store.ico",
     "slug": "https-www-shop-ankama-store-dofus-fr",
     "status": "up",
-    "uptime": "98.13%",
+    "uptime": "98.34%",
     "uptimeDay": "96.50%",
-    "uptimeWeek": "98.13%",
-    "uptimeMonth": "98.13%",
-    "uptimeYear": "98.13%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "98.34%",
     "time": 562,
-    "timeDay": 410,
+    "timeDay": 462,
     "timeWeek": 562,
     "timeMonth": 562,
     "timeYear": 562,
     "dailyMinutesDown": {
       "2022-12-27": 50,
       "2022-12-24": 26
+    }
+  },
+  {
+    "name": "https://wakforum.shop/",
+    "url": "https://wakforum.shop/",
+    "icon": "https://icons.duckduckgo.com/ip3/wakforum.shop.ico",
+    "slug": "https-wakforum-shop",
+    "status": "down",
+    "uptime": "18.74%",
+    "uptimeDay": "18.74%",
+    "uptimeWeek": "18.74%",
+    "uptimeMonth": "18.74%",
+    "uptimeYear": "18.74%",
+    "time": 195,
+    "timeDay": 195,
+    "timeWeek": 195,
+    "timeMonth": 195,
+    "timeYear": 195,
+    "dailyMinutesDown": {
+      "2022-12-27": 0
     }
   }
 ]
