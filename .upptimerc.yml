@@ -5,6 +5,8 @@ repo: phish-monitor # The name of this repository
 sites:
   - name: https://www.shop-ankama.store/dofus/fr/
     url: https://www.shop-ankama.store/dofus/fr/
+  - name: https://wakforum.shop/
+    url: https://wakforum.shop/ 
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
