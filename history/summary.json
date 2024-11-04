@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.shop-ankama.store.ico",
     "slug": "https-www-shop-ankama-store-dofus-fr",
     "status": "up",
-    "uptime": "4.32%",
+    "uptime": "4.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "74.61%",
-    "uptimeYear": "6.10%",
-    "time": 324,
-    "timeDay": 714,
-    "timeWeek": 382,
-    "timeMonth": 324,
-    "timeYear": 324,
+    "uptimeMonth": "77.89%",
+    "uptimeYear": "6.38%",
+    "time": 328,
+    "timeDay": 423,
+    "timeWeek": 375,
+    "timeMonth": 328,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2024-10-31": 26,
       "2024-10-10": 1125,
@@ -356,8 +356,7 @@
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
-      "2023-11-06": 1440,
-      "2023-11-05": 1440
+      "2023-11-06": 1440
     }
   },
   {
@@ -377,7 +376,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-03": 108,
+      "2024-11-04": 104,
+      "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
@@ -740,8 +740,7 @@
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
-      "2023-11-06": 1440,
-      "2023-11-05": 1440
+      "2023-11-06": 1440
     }
   }
 ]
